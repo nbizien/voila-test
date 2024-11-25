@@ -1,6 +1,4 @@
 bqplot
-ipympl
-ipyvolume
 scipy
 voila>=0.2.12,<0.3
 numpy
