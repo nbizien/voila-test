@@ -1,6 +1,6 @@
 bqplot
 scipy
-voila>=0.2.12,<0.3
+voila
 numpy
 ipywidgets
 seaborn
@@ -16,7 +16,6 @@ nibabel
 patsy
 boto3
 jupyterquiz
-voila
 sympy
 nbgitpuller
 jupytext
