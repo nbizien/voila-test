@@ -3,3 +3,6 @@ ipympl
 ipyvolume
 scipy
 voila
+numpy
+ipywidgets
+
